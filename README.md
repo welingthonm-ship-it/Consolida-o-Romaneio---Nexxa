@@ -1,4 +1,4 @@
-# Consolidação de Romaneio — Nexxa
+# Consolidação de Romaneio
 
 Portal web (uma única página `index.html`) que cruza a **Grade**, a **Programação** e o **Romaneio** e gera, para cada romaneio, a planilha com a sequência de entrega por loja.
 
